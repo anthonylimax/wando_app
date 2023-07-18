@@ -101,7 +101,7 @@ export default function Header() {
                                         gap: "20px",
                                     }}
                                 ><img src='./verify.png'></img>
-                                    <span style={{ fontSize: 30 }}>proposta de cartão para compra de materiais escolares</span>
+                                    <span style={{ fontSize: 30 }}>{element}proposta de cartão para compra de materiais escolares</span>
                                 </div>
 
                             )
